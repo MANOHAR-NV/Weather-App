@@ -2,6 +2,11 @@
 
 This is a simple weather application that allows users to search for the weather in various cities. It uses the OpenWeatherMap API to fetch weather data and display it to the user.
 
+
+# Demo
+
+https://weatherappmnv.netlify.app/
+
 ## Features
 
 - Search for current weather by city name
