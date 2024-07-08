@@ -32,7 +32,7 @@ https://weatherappmnv.netlify.app/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/MANOHAR-NV/weather-app.git
     cd weather-app
     ```
 
